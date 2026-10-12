@@ -1,0 +1,9 @@
+{
+  "name": "Game AR Tangkap Lebah",
+  "description": "Game edukasi AR tangkap lebah interaktif menggunakan kamera AI/tangan atau kursor. Dibuat oleh : M. Nur Ali Abidin, S.Pd.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
+
+
